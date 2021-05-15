@@ -1,3 +1,6 @@
 [submodule "pack/bundle/start/delimitMate"]
 	path = pack/bundle/start/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
+[submodule "pack/bundle/opt/nord-vim"]
+	path = pack/bundle/opt/nord-vim
+	url = https://github.com/arcticicestudio/nord-vim.git
