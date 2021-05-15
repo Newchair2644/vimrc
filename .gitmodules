@@ -1,0 +1,3 @@
+[submodule "pack/bundle/start/delimitMate"]
+	path = pack/bundle/start/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
