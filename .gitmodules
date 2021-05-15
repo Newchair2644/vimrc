@@ -7,3 +7,15 @@
 [submodule "pack/bundle/start/lightline.vim"]
 	path = pack/bundle/start/lightline.vim
 	url = https://github.com/itchyny/lightline.vim.git
+[submodule "pack/bundle/start/lightline-ale"]
+	path = pack/bundle/start/lightline-ale
+	url = https://github.com/maximbaz/lightline-ale.git
+[submodule "pack/bundle/start/ale"]
+	path = pack/bundle/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/bundle/start/ultisnips"]
+	path = pack/bundle/start/ultisnips
+	url = https://github.com/sirver/UltiSnips.git
+[submodule "pack/bundle/start/vim-snippets"]
+	path = pack/bundle/start/vim-snippets
+	url = https://github.com/honza/vim-snippets.git
